@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = "cascodes"
+theme = 'dario'
+
+mainSections = ['projects', 'writing']
+
+[params]
+  description = "Archive of projects and writing by Caspar."
+
+  [params.author]
+    name = "Caspar"
+    email = "cascodes.elaborate358@passinbox.com"
