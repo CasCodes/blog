@@ -1,5 +1,5 @@
 ---
-title: "TikToks way of dealing with fake news"
+title: "TikTok's way of dealing with fake news"
 date: 2022-07-22T22:41:50+02:00
 draft: false
 tags: ["writing", "politics", "technology"]

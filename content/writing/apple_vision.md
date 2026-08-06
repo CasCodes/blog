@@ -1,5 +1,5 @@
 ---
-title: "Apple(s) Vision - Building the future or escaping it?"
+title: "Apple('s) Vision - Building the future or escaping it?"
 date: 2023-05-08T23:20:27+02:00
 draft: false
 tags: ["writing", "politics", "technology"]
