@@ -27,3 +27,5 @@ tmp/
 public/
 resources/_gen/
 .hugo_build.lock
+
+content/writing/drafts
